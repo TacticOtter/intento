@@ -1,0 +1,26 @@
+/*Profe, los comentarios que voy a poner son para no perderme yo y entender que estoy haciendo*/
+/*Modifica el título*/
+.titulo {
+    color: rgb(178, 21, 178);
+    font-size: 32px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.boton-cambio {
+    background-color: rgb(21, 0, 29);
+    color: violet;
+}
+
+.gumball {
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+    border-color: aqua;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.boton-meme {
+    background-color: pink;
+    color: black;
+    border-radius: 25px;
+}
